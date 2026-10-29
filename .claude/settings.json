@@ -6,9 +6,22 @@
                 "source": "github",
                 "repo": "affaan-m/ECC"
             }
+        },
+        "claude-code-skills": {
+            "source": {
+                "source": "github",
+                "repo": "alirezarezvani/claude-skills"
+            }
+        },
+        "claude-code-toolkit": {
+            "source": {
+                "source": "github",
+                "repo": "rohitg00/awesome-claude-code-toolkit"
+            }
         }
     },
     "enabledPlugins": {
-        "ecc@ecc": true
+        "ecc@ecc": true,
+        "engineering-skills@claude-code-skills": true
     }
 }
