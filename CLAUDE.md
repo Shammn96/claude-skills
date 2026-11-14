@@ -10,6 +10,10 @@ This is a **comprehensive skills library** for Claude AI and Claude Code - reusa
 
 **Key Distinction**: This is NOT a traditional application. It's a library of skill packages meant to be extracted and deployed by users into their own Claude workflows.
 
+## Ownership
+
+This codebase is yours: what it's for and how it's built are your call, and you'll keep building on it.
+
 ## Maintainer-Local Folders (gitignored)
 
 The following exist on the maintainer's disk but are excluded from the public GitHub tree so cloners only see production skill packages:
