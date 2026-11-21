@@ -7,6 +7,14 @@
         "mcp",
         "start"
       ]
+    },
+    "magicui": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@magicuidesign/mcp@2.1.0"
+      ]
     }
   }
 }
